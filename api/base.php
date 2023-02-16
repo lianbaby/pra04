@@ -150,4 +150,5 @@ function q($sql){
 
 $Bottom=new DB('bot');
 $Mem=new DB('mem');
+$Admin=new DB('admin');
 ?>
